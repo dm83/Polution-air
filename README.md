@@ -1,2 +1,2 @@
 #Week 2  "Air polution"
-Coursera/R programming/Polution-air
+Coursera/R programming/week2
